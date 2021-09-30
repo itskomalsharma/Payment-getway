@@ -8,5 +8,9 @@ They can also manage all transaction from all transaction page and wallet page.
 - Mysql5.x
 - Mysql 7.x
 
-#Screenshot
-<img src="">
+# Screenshot
+<img src="https://raw.githubusercontent.com/itskomalsharma/Payment-getway/main/screenshot/15.PNG">
+<img src="https://raw.githubusercontent.com/itskomalsharma/Payment-getway/main/screenshot/12.PNG">
+<img src="https://raw.githubusercontent.com/itskomalsharma/Payment-getway/main/screenshot/13.PNG">
+<img src="https://raw.githubusercontent.com/itskomalsharma/Payment-getway/main/screenshot/14.PNG">
+<img src="https://raw.githubusercontent.com/itskomalsharma/Payment-getway/main/screenshot/11.PNG">
